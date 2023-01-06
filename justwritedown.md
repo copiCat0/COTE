@@ -33,10 +33,30 @@
     let newArray = [1, 2, 3].concat([4, 5], [6, 7])
     ```
 
-    보다 많이 쓰는⬇️
+    보다 많이 쓰는⬇️  전개 연산자(spread operator)
     ```
     let li1 = [1, 2, 3]
     let li2 = [4, 5, 6]
     //전개 연산자 spread operater
     let newArray=[...li1, ...li2]
+    ```
+
+- 배열 요소 컨트롤 가능 array.splice()
+  
+  => slice와 혼동 주의
+
+  ```
+  
+  ```
+
+- array.forEach(item, index, array)
+- array.find()
+- array.sort()
+  - 오름차순 정렬
+    ```
+    arr.sort((a, b) => a - b)
+    ```
+  - 내림차순 정렬
+    ```
+    arr.sort((a, b) => b - a)
     ```
