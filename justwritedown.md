@@ -61,3 +61,27 @@
     arr.sort((a, b) => b - a)
     ```
 - arr.reduce()
+
+
+
+
+.
+.
+.
+.
+.
+.
+- [ ]  Call⭐️
+- [ ]  reduce⭐️
+- [x]  map
+- [ ]  find
+- [x]  forEach
+- [x]  filter
+- [ ]  find
+- [x]  indexOf
+- [x]  sort
+- [ ]  join
+- [ ]  slice
+- [ ]  splice⭐️
+    - 특정 인덱스부터 횟수만큼 제거하고 입력하는 만큼 추가할 수 있다.(delete, replace)
+- [ ]  concat
