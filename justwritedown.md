@@ -60,3 +60,4 @@
     ```
     arr.sort((a, b) => b - a)
     ```
+- arr.reduce()
