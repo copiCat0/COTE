@@ -93,8 +93,8 @@
 위 코드는 이하 처럼 변경해 주어야 한다.
     
      0 < angle && angle < 90
+    
      
-     
-     <img width="564" alt="image" src="https://user-images.githubusercontent.com/80018207/213848566-5cc646c4-49dd-4e44-8231-dedaa1a9ecce.png">
+<img width="564" alt="image" src="https://user-images.githubusercontent.com/80018207/213848608-10e74215-1ba8-46b1-bd97-483379b639e2.png">
 
 아니 이거 왜 안되는데;;
